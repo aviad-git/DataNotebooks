@@ -15,7 +15,7 @@ The goal of this repository is to:
 Install the Python packages needed:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt  TODO - generate requirements.txt
 ````
 
 ## 🛠 Usage
